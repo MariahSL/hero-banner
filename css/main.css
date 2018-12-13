@@ -42,4 +42,6 @@ p {
   left: 50%;
   max-width: 50em;
   transform: translate(-50%, -50%);
+  width: 100%;
+  margin: 0;
 }
