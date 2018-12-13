@@ -25,10 +25,12 @@ p {
   margin: 0;
 }
 
-.image {
-  max-width: 50em;
+.banner {
+  position: relative;
 }
 
-.content {
+.banner-content {
   width: 100%;
+  position: absolute;
+  bottom: 1rem;
 }
