@@ -6,3 +6,29 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+h2 {
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
+  font-size: 4rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+p {
+  font-style: italic;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.image {
+  max-width: 50em;
+}
+
+.content {
+  width: 100%;
+}
