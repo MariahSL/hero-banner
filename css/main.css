@@ -46,5 +46,7 @@ p {
   transform: translate(-50%);
   width: 100%;
   margin: 0;
+  padding-left: 1em;
+  padding-right: 1.5em;
   font-family: "Open Sans", sans-serif;
 }
