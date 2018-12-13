@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
+  font: normal 100%/1.5 sans-serif;
 }
 
 *, *::before, *::after {
@@ -21,7 +21,6 @@ h2 {
   color: #fff;
   font-size: 4rem;
   font-weight: bold;
-  margin: 0;
 }
 
 p {
@@ -44,4 +43,5 @@ p {
   transform: translate(-50%);
   width: 100%;
   margin: 0;
+  font-family: "Open Sans", sans-serif;
 }
