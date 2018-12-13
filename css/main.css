@@ -41,4 +41,5 @@ p {
   bottom: 1.5rem;
   left: 50%;
   max-width: 50em;
+  transform: translate(-50%, -50%);
 }
